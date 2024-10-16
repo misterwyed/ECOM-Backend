@@ -1,5 +1,6 @@
-INSERT INTO PRODUCT(name,description, brand, price, category,releaseDate, productAvailable, stockQuantity)
-VALUES ('Nexon', 'Its a good car', 'TATA', 700000, 'CAR', '1997-04-17', true, 100),
+INSERT INTO PRODUCT(name, description, brand, price, category, releaseDate, productAvailable, stockQuantity)
+VALUES
+('Nexon', 'Its a good car', 'TATA', 700000, 'CAR', '1997-04-17', true, 100),
 ('Model S', 'An electric sedan with excellent performance', 'Tesla', 800000, 'CAR', '2024-05-01', true, 50),
 ('Galaxy S23', 'Latest smartphone from Samsung', 'Samsung', 999, 'PHONE', '2024-03-15', true, 200),
 ('Air Max 270', 'Stylish running shoes for comfort and support', 'Nike', 150, 'FOOTWEAR', '2024-01-10', true, 75),
